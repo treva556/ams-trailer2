@@ -20,8 +20,11 @@ function App() {
         </div>
       <div className=' p-6 bg-slate-100'> 
         
-      <div className=' p-32 bg-red-800'>
-        pkk
+      <div className=' flex flex-col rounded-t-2xl items-center p-32 bg-red-800'>
+        "The 2nd AMS site"
+      </div>
+      <div className=' flex flex-col rounded-xl p-32 bg-black mt-3 text-white'>
+        "The 2nd AMS site"
       </div>
       </div>
       
